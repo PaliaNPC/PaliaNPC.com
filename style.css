@@ -1,0 +1,39 @@
+.themed-grid-col {
+  font: inherit;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+  background-color: #;
+  border-top: 3px solid #b4f5fd;
+  text-align: left;
+}
+
+
+@media (max-width : 992px) {
+   .weekly-wants {
+      border-top: 0px;
+  }
+
+  .npc {
+    margin-top: 1em;
+  }
+}
+
+
+
+body {
+  background-color: #f8f9fd;
+}
+
+.container {
+  background-color: #FFFFFF;
+  padding: 20px;
+
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
